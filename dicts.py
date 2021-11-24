@@ -3,11 +3,7 @@
 temp = {'city': 'Москва', 'temperature': 20} #Создайте словарь
 print(temp['city']) #Выведите на экран значение ключа city
 
-<<<<<<< Updated upstream
-temp['temperature'] = temp[int('temperature')] - 5 #Уменьшите значение "temperature" на 5  ???? может быть уменьшить нужно было через арифметическое действие, тогда я не могу понять как это сделать ????
-=======
-temp['temperature'] = temp['temperature'] - 5 #Уменьшите значение "temperature" на 5  ???? может быть уменьшить нужно было через арифметическое действие, тогда я не могу понять как это сделать ????
->>>>>>> Stashed changes
+temp['temperature'] = temp['temperature'] - 5 #Уменьшите значение "temperature" на 5  
 print(temp) #Выведите на экран весь словарь
 
 #Задание 2 Словари
